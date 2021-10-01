@@ -9,3 +9,6 @@ Assignmnt 2 (14-09-2021) : At the same level as this notebook on github, there i
 2) Predict price of a BMW X5 that is 7 yr old with mileage 86000
 
 3) Tell me the score (accuracy) of your model. (Hint: use LinearRegression().score())
+
+
+Assignment 3: Titanic Passanger Survival Analysis
