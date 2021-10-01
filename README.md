@@ -11,4 +11,4 @@ Assignmnt 2 (14-09-2021) : At the same level as this notebook on github, there i
 3) Tell me the score (accuracy) of your model. (Hint: use LinearRegression().score())
 
 
-Assignment 3: Titanic Passanger Survival Analysis
+Assignment 3: Titanic Passanger Survival Analysis and used titanic.csv file.
